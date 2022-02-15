@@ -1,0 +1,6 @@
+[2019-12-22 08:25:49] INFO  - LOG INITIALISED
+[2019-12-22 08:25:49] ERROR - dizuo_template or no_dizuo empty in function train!
+[2019-12-22 08:27:57] INFO  - LOG INITIALISED
+[2019-12-22 08:27:57] ERROR - dizuo_template or no_dizuo empty in function train!
+[2019-12-22 08:28:19] INFO  - LOG INITIALISED
+[2019-12-22 08:28:19] ERROR - dizuo_template or no_dizuo empty in function train!

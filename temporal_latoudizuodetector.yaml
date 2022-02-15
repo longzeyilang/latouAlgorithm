@@ -1,0 +1,19 @@
+%YAML:1.0
+---
+num_features: 0
+weak_threshold: 0
+strong_threshold: 0
+angle_start: 0
+angle_end: 0
+blank_thres: 0
+first_thres: 0
+second_thres: 0
+isSec: 1
+m_train_x1: 50
+m_train_y1: 26
+m_train_x2: 326
+m_train_y2: 282
+m_logo_x1: 208
+m_logo_y1: 78
+m_logo_x2: 258
+m_logo_y2: 234

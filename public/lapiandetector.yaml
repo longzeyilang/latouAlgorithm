@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+num_features: 128
+weak_threshold: 20
+strong_threshold: 50
+angle_start: -5
+angle_end: 5
+blank_thres: 20
+first_thres: 90
+second_thres: 80
+isSec: 0
+x1: 411
+y1: 149
+x2: 541
+y2: 276

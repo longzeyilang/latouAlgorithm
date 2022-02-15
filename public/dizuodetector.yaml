@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+num_features: 128                 #特征点数目 128
+weak_threshold: 20               #弱特征点  20
+strong_threshold: 50             #强特征点  50
+angle_start: -5                   #角度的起始值
+angle_end: 5                      #角度的终止角
+blank_thres: 20
+first_thres: 90     #匹配定位阈值
+second_thres: 80    #二次判断阈值
+isSec: 0                                #判断是否进行二次判断 0:不进行 1:进行
+x1: 400                                 #二次判断的坐标值
+y1: 150
+x2: 535
+y2: 268

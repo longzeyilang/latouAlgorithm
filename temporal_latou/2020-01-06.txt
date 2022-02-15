@@ -1,0 +1,228 @@
+[2020-01-06 09:04:14] INFO  - LOG INITIALISED
+[2020-01-06 09:04:14] INFO  - load dizuo info file successfully
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - load lapian info file successfully
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.232130
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.054912
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.076250
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.060130
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.055529
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.064046
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.051982
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.047941
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.071891
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.059147
+[2020-01-06 09:04:15] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:04:15] INFO  - dizuo blank res is:ng
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:04:15] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:04:15] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:04:15] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify match thresh and score:85,0.000000
+[2020-01-06 09:04:15] INFO  - lapian firstIndentify is:ng
+[2020-01-06 09:04:15] INFO  - predict cost time: 0.050142
+[2020-01-06 09:04:15] INFO  - LOG FINALISED
+[2020-01-06 09:07:46] INFO  - LOG INITIALISED
+[2020-01-06 09:07:46] INFO  - load dizuo info file successfully
+[2020-01-06 09:07:46] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:46] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:46] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:46] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:46] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:46] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:46] INFO  - load lapian info file successfully
+[2020-01-06 09:07:46] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:46] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:46] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:46] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:46] INFO  - predict cost time: 0.192449
+[2020-01-06 09:07:46] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:46] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:46] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:46] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:46] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:46] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:46] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:46] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:46] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:46] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:46] INFO  - predict cost time: 0.086472
+[2020-01-06 09:07:46] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:46] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:46] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:46] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:46] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:46] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.068003
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.055785
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.053455
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.061243
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.049099
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.060598
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.073769
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.045673
+[2020-01-06 09:07:47] INFO  - dizuo blank thresh,count thresh and curr thresh:20,8666,27199
+[2020-01-06 09:07:47] INFO  - dizuo blank res is:ng
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - dizuo firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - dizuo secondIdentify match thresh and score: 80,98.953728
+[2020-01-06 09:07:47] INFO  - dizuo secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify match thresh and score:85,100.000000
+[2020-01-06 09:07:47] INFO  - lapian firstIndentify is:ok
+[2020-01-06 09:07:47] INFO  - lapian secondIdentify match thresh and score: 80,99.335327
+[2020-01-06 09:07:47] INFO  - lapian secondIndentify is:ok
+[2020-01-06 09:07:47] INFO  - predict cost time: 0.049537
+[2020-01-06 09:07:47] INFO  - LOG FINALISED
